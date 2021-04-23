@@ -7,8 +7,9 @@ public class MesaageRunner implements CommandLineRunner {
 
 	@Override
 	public void run(String... args) throws Exception {
+		int a=10;
 		System.out.println("hello welocmeiewfh");
-		System.out.println("hello two");
+		
 	}
 
 }
